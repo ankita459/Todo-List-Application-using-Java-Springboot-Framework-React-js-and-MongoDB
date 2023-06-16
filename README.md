@@ -1,7 +1,7 @@
 # To set up and run the application, follow these steps:
 
 1. Create a new Java project in your preferred IDE.
-2. Create the following packages inside the project:
+2. Create the following packages inside the project :
 * com.example.config
 * com.example.controller
 * com.example.model
