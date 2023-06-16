@@ -6,7 +6,7 @@
 * com.example.controller
 * com.example.model
 * com.example.repository
-3. Copy and paste the provided code into the respective files in their corresponding packages:
+3. Copy and paste the provided code into the respective files in their corresponding packages :
 * CorsConfig.java into the com.example.config package
 * TaskController.java into the com.example.controller package
 * Task.java into the com.example.model package
