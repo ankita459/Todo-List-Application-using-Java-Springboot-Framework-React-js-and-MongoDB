@@ -21,5 +21,4 @@
 8. The application should now be running on http://localhost:8888.
 9. You can use the provided React code from earlier to create a frontend application that interacts with this backend API.
 
-# Note: Make sure to adjust the allowedOrigins in the CorsConfig.java file to match the URL of your frontend application. In the provided code, it is set to http://localhost:3000.
-
+Note : Make sure to adjust the allowedOrigins in the CorsConfig.java file to match the URL of your frontend application. In the provided code, it is set to http://localhost:3000.
