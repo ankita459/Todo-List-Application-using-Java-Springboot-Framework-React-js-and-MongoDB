@@ -1,6 +1,6 @@
 # Todo-List-Application-using-Java-Springboot-Framework-React-js-and-MongoDB
 
-# To set up and run the application, follow these steps:
+To set up and run the application, follow these steps:
 
 1. Create a new Java project in your preferred IDE.
 2. Create the following packages inside the project:
