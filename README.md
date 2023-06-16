@@ -12,8 +12,9 @@
 * Task.java into the com.example.model package
 * TaskRepository.java into the com.example.repository package
 4. Make sure you have MongoDB installed and running on your local machine. By default, it listens on port 27017.
-5. Open the application.properties file and add the following configuration:
+5. Open the application.properties file and add the following configuration :
    spring.data.mongodb.uri=mongodb://localhost:27017/todo-list
+  
    server.port=8888
 6. Build the project to resolve any dependencies.
 7. Run the application.
